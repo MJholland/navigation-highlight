@@ -69,5 +69,9 @@ img {
 }
 
 nav .current {
-	background-color: #2f2d13;
+	background-color: #b20953;
+}
+
+p {
+	color: #2f2d13;
 }

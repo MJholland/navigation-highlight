@@ -1,0 +1,69 @@
+font-family: 'Sigmar One', cursive;
+html {
+	box-sizing: border-box;
+  font-size: 100%;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+body {
+  font-family: georgia, cursive;
+  margin: 0;
+  background-color: #ffe500;
+}
+
+header {
+  text-align: center;
+  padding: 0;
+}
+
+main {
+  background-color: white;
+  padding: 1em .5em;
+  font-size: 1.125rem;
+}
+
+.subtitle {
+  font-family: "Sigmar One", cursive;
+  color: #cc1465;
+  font-size: 1.875rem;
+}
+
+h1 {
+  font-family: "Sigmar One", cursive;
+  font-size: 3rem;
+  text-align: center;
+  color: #cc1465;
+}
+
+.nav li {
+  display: inline-block;
+}
+
+.nav a {
+  display: inline-block;
+  padding: .5em .75em;
+  border-radius: 4px;
+  text-decoration: none;
+  color: white;
+  background-color: #b2a212;
+}
+
+.nav a:hover{
+  background-color: #cc1465;
+}
+
+footer {
+  text-align: center;
+  font-size: .75rem;
+}
+
+.nav {
+	padding: 0;
+}
+
+img {
+	width: 100%;
+}
